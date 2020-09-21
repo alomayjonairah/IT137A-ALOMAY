@@ -1,8 +1,13 @@
 
+:root {
+        --input-padding-x: 1rem;
+        --input-padding-y: 1rem;
+  }
 
         body{
             background:linear-gradient(180deg, navy ,aqua , darkblue );
-           width:0px;
+           width:50px;
+                margin-left: 500px
         }
 
 

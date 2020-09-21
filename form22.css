@@ -2,7 +2,7 @@
 
         body{
             background:linear-gradient(180deg, navy ,aqua , darkblue );
-          
+           width:0px;
         }
 
 
@@ -13,8 +13,7 @@
         border-radius: 10px;
         box-shadow: 0 0.5rem 2rem black;
         background-color:whitesmoke;
-        
-        width: 50vh;
+         width: 50vh;
         height: 60vh;
      
     

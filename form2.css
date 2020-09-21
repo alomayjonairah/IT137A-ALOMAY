@@ -1,0 +1,55 @@
+:root {
+    --input-padding-x: 1.5rem;
+    --input-padding-y: .75rem;
+  }
+  
+  .body {
+   
+    background: linear-gradient(to right, #0062E6, palevioletred);
+    widows: 10px;
+    max-width: 500px;
+    margin: 200px;
+    margin-left: 300px;
+    
+  }
+
+  .card{
+   
+        padding: 10pt;
+        border: 0;
+        border-radius: 10px;
+        box-shadow: 0 0.5rem 1rem blue;
+        background-color:whitesmoke;
+        margin-left: 200px;
+        height: 50vh;
+  }
+
+  .card-header{
+        font-weight: bold;
+        margin-left: 40pt;
+        font-size: 15pt;
+        color: navy; 
+  }
+
+ .btn{
+        padding: 0pt;
+        margin-left:40pt;
+        background-color: 
+        
+      
+        
+ }
+
+ .md-form{
+
+     
+       font-size: 13pt;
+       margin-left: 39pt;
+    
+ }
+
+
+ .form-check{
+    margin-left: 39pt;
+   font-size: 13pt;
+ }
